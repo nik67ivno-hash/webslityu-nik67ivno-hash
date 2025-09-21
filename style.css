@@ -48,7 +48,7 @@ h1{
 #pemc{
     width: auto;
     height: 200px;
-    background: #a9aca8;
+    background: #777;
 }
 section{
     width: 880px;
@@ -60,6 +60,7 @@ article{
     width: 100px;
     height: 100px;
     border: 1px solid #234;
+    float:z-index;
 }
 article p{
     color:#897;
@@ -79,5 +80,6 @@ footer .fot{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     font-weight: 600;
-    text-shadow: 2px 3px 2px #000;
+    text-shadow: 2px 3px 2px #777;
 }
+
