@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li href="#">HOME</li>
+                <li href="#">SERVICVIOS</li>
+                <li href="#">PRODUCTOS</li>
+                <li href="#">ENVIOS</li>
+                <li href="#">CONTACTO</li>
+            </ul>
+        </nav>
+    </header>
+    <h1>Bievenidop a Practico GIT</h1>
+    <p class="liscon">Lista de contenidos</p>
+    <div id="contenido">
+        <p>Presentacion</p>
+        <p>Videos</p>
+        <p>Muestras</p>
+    </div>
+    <!------------------------------------------------------->
+    <div id="pemc">
+        <section>
+            <article>
+                <p>Productos</p>
+            </article>
+            <article>
+                <p>Envios</p>
+            </article>
+            <article>
+                <p>Mapas</p>
+            </article>
+            <article>
+                <p>Contacto</p>
+            </article>
+        </section>
+    </div>
+    <!------------------------------------------------------->
+    <footer>
+        <p class="fot">CopyRigth - 2025 By Alibaba China</p>
+        <p class="fot">Servicios</p>
+        <p class="fot">Importaciones</p>
+        <p class="fot">Agencias</p>
+        <p class="fot">Ubicaciones</p>
+    </footer>
+</body>
+</html>
